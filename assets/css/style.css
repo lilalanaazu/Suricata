@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #e83e8c;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+nav {
+    color: white;
+}
+
+@media (min-width: 700px) {
+    body {
+        background-color: #e83e8c;
+    }
+}
+
+.fondo-nav {
+    background-color: #e83e8c;
+}
